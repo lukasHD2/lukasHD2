@@ -1,4 +1,4 @@
-- # Hi 👋, I'm lukasHD2
+# Hi 👋, I'm lukasHD2
 - 👀 I'm interested in **computers and enjoy programming**
 - 🌱 I’m currently preparing **to start my "IT Specialist for System Integration" apprenticeship in August.**
 - 💼 I have experience with various programming languages such as **Python, Java, and JavaScript**
