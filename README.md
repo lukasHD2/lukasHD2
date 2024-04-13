@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @lukasHD2
 - 👀 I'm interested in computers and enjoy programming. 
-- 🌱 I’m currently learning "IT Specialist for System Integration"
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently preparing to start my "IT Specialist for System Integration" apprenticeship in August.
+- 💼 I have experience with various programming languages such as Python, Java, and JavaScript.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
 
 <!---
 lukasHD2/lukasHD2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
