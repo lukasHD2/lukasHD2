@@ -1,5 +1,5 @@
 # Hi 👋, I'm lukasHD2
-- 👀 I'm interested in **computers and enjoy programming**
+- 👀 I'm interested in **computers and server hardware**
 - 🌱 I’m already started **my "IT Specialist for System Integration" September 2024**
 - 💼 I have experience with various programming languages such as **Python, Java, and JavaScript**
 
